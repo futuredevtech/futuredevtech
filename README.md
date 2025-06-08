@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Something**
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **Android , MERN, React Native etc.**
 
 - 📫 How to reach me **support@futuredevtech.com**
 
