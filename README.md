@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android , MERN**
 
-- 📫 How to reach me **support@futureapps.in**
+- 📫 How to reach me **support@futuredevtech.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/abhimanyux48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="futuredevtech" height="27" width="30" /></a>
 <a href="https://linkedin.com/in/abhimanyu-sinhmar-672b6b2b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-sinhmar-672b6b2b2" height="27" width="30" /></a>
-<a href="https://instagram.com/futureapps00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="futureapps00" height="27" width="30" /></a>
+<a href="https://instagram.com/futuredevtech48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="futuredevtech" height="27" width="30" /></a>
 <a href="https://www.youtube.com/@LearnVithAS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@LearnVithAS" height="27" width="30" /></a>
 </p>
 
