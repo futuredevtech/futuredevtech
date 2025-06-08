@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/abhimanyux48" target="blank"><img src="https://img.shields.io/twitter/follow/abhimanyux48?logo=twitter&style=for-the-badge" alt="futuredevtech"  </p>
 
 
-- 🌱 I’m currently learning **NextJs, TypeScript**
+- 🌱 I’m currently learning **Something**
 
 - 💬 Ask me about **Android , MERN**
 
